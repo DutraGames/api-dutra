@@ -30,7 +30,7 @@ let Cars = [{
   },
   {
     id: 4,
-    img: '',
+    img: 'https://user-images.githubusercontent.com/69097449/131396609-8bba977f-067e-466e-a6be-aa960b746709.jpg',
     name: 'City 1.5 lx',
     year: '2013',
     km: '0',
@@ -38,7 +38,7 @@ let Cars = [{
   },
   {
     id: 5,
-    img: '',
+    img: 'https://user-images.githubusercontent.com/69097449/131396720-c3b302a1-9d8a-415a-9757-0ada58394e36.jpg',
     name: 'Corsa Hatch 1.8 completo',
     year: '2005',
     km: '0',
@@ -46,7 +46,7 @@ let Cars = [{
   },
   {
     id: 6,
-    img: '',
+    img: 'https://user-images.githubusercontent.com/69097449/131396808-ce045086-e918-4670-a1ee-5e381e219aea.jpg',
     name: 'Gol 1.0',
     year: '2001',
     km: '0',
