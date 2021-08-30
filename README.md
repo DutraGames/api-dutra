@@ -14,6 +14,10 @@ npm i node-fetch
 npm i nodemon -D
 ```
 
+```properties
+npm i cors
+```
+
 ## Atenção!!
 
 **DESENVOLVIMENTO!!**
