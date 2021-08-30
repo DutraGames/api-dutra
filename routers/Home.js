@@ -8,3 +8,5 @@ router.get('/', (req,res) =>{
         cars: 'https://api-dutra.herokuapp.com/cars'
     })
   })
+
+module.exports = router
