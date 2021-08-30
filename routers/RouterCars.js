@@ -28,6 +28,30 @@ let Cars = [{
     km: '0',
     price: '36.900'
   },
+  {
+    id: 4,
+    img: '',
+    name: 'City 1.5 lx',
+    year: '2013',
+    km: '0',
+    price: '46.900'
+  },
+  {
+    id: 5,
+    img: '',
+    name: 'Corsa Hatch 1.8 completo',
+    year: '2005',
+    km: '0',
+    price: '17.900'
+  },
+  {
+    id: 6,
+    img: '',
+    name: 'Gol 1.0',
+    year: '2001',
+    km: '0',
+    price: '16.900'
+  },
 ]
 
 router.get('/cars', (req,res) =>{
