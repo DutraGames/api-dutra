@@ -25,7 +25,7 @@ fetch('https://api.github.com/users/DutraGames')
         bio = body.bio
 })
 
-router.get('/', (req, res) => {
+router.get('/github', (req, res) => {
     res.send({
         name: name,
         avatar: avatar,

@@ -7,6 +7,7 @@ const port = process.env.PORT || 3000
 
 app.use(cors())
 app.use('/', useRouter)
+app.use('/github', useRouter)
 app.use('/cars', useRouter)
 
 app.listen(port)
