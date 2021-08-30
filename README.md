@@ -1,5 +1,7 @@
 # API express
 
+[API](https://api-dutra.herokuapp.com/)
+
 ## Instalação
 
 ```properties
@@ -25,5 +27,7 @@ npm i cors
 
 ## Listagem:
 
+- [x] HomePage APIs
 - [x] API Github filtro
-- [ ] API Cars
+- [x] API Cars
+- [ ] Documentation README
