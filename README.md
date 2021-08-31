@@ -2,32 +2,8 @@
 
 [API](https://api-dutra.herokuapp.com/)
 
-## Instalação
+## 📰Description:
 
-```properties
-npm i express
-```
+A friend asked me to run a simple application that would extract data from their products from somewhere.
 
-```properties
-npm i node-fetch
-```
-
-```properties
-npm i nodemon -D
-```
-
-```properties
-npm i cors
-```
-
-## Atenção!!
-
-**DESENVOLVIMENTO!!**
-
-
-## Listagem:
-
-- [x] HomePage APIs
-- [x] API Github filtro
-- [x] API Cars
-- [ ] Documentation README
+Since I would love to do something with nodeJS and use the express library, I've simplified this API.
